@@ -1,4 +1,3 @@
-# Joseph Odunlami
 Data Science Portfolio
 
 # [Project 1: Data science House Prices Prediction: Project Overview](https://github.com/dayogh/Portfolio/blob/main/house_prices.ipynb)
