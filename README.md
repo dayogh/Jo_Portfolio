@@ -4,3 +4,8 @@ Data Science Portfolio
 * Created a model that estimates house prices based on their attributes so that price estimates can be made by different stakeholders.
 * Carried out Exploratory Data Analysis(EDA) to visualize the properties of the data.
 * Optimised Lineer, Lasso and Random Forest Regressors using GridsearchCV to reach the best model.
+
+
+# Project 2: Artificial Neural Network Student Performance Prediction 
+# Project 3: Sentiment Analysis
+# Project 4: Titanic 
