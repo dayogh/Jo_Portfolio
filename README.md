@@ -7,10 +7,14 @@ Data Science Portfolio
 
 ![](/images/corr_houseprices.png)
 
+
+
 # [Project 2: Artificial Neural Network Student Performance Prediction: Project Overview](https://github.com/dayogh/Joseph_Portfolio/blob/main/data_science/Sentiment_Analysis.ipynb)
 For this research project, I built a predictive model for student performances. This could be useful for stakeholders in education to predict based on behaviour the possible performance of students based on their unique activity attributes. The models within this project have their hyperparameters tuned for high accuracy and low loss.
 
 ![](/images/studenann.png)
+
+
 
 
 # [Project 3: Sentiment Analysis: Project Overview](https://github.com/dayogh/Joseph_Portfolio/data_science/blob/main/Sentiment_Analysis.ipynb)
@@ -20,6 +24,8 @@ For this research project, I built a predictive model for student performances. 
 * The data was modelled on the training set  and used to predict the classes of the test set.
 
 ![](/images/sentiment.png)
+
+
 
 # [Project 4: Titanic: Project Overview](https://github.com/dayogh/Joseph_Portfolio/blob/main/data_science/Titanic.ipynb)
 * The model was created to predict if passangers aboard the titanic would survive or not. 
