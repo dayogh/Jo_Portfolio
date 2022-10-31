@@ -7,7 +7,7 @@ Data Science Portfolio
 
 
 # [Project 2: Artificial Neural Network Student Performance Prediction](https://colab.research.google.com/drive/1a55Xz0I6YbS2n0DjMhue7YZTSBZqkZHX?usp=sharing)
-For this project research, I built a predictive model for student performances. This could be useful for stakeholders in education to predict based on behaviour the possible performance of students based on their unique activity attributes. The models within this project have their hyperparameters tuned for high accuracy and low loss.
+For this research project, I built a predictive model for student performances. This could be useful for stakeholders in education to predict based on behaviour the possible performance of students based on their unique activity attributes. The models within this project have their hyperparameters tuned for high accuracy and low loss.
 
 # [Project 3: Sentiment Analysis](https://github.com/dayogh/Joseph_Portfolio/blob/main/Sentiment_Analysis.ipynb)
 * Created a model that performs sentiment analysis on tweets by classifying the words and sentences based on text processing into two categories i.e positive or negative.
