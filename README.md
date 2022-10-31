@@ -1,13 +1,13 @@
 Data Science Portfolio
 
-# [Project 1: Data science House Prices Prediction: Project Overview](https://github.com/dayogh/Portfolio/data_science/blob/main/house_prices.ipynb)
+# [Project 1: Data science House Prices Prediction: Project Overview](https://github.com/dayogh/Joseph_Portfolio/blob/main/data_science/house_prices.ipynb)
 * Created a model that estimates house prices based on their attributes so that price estimates can be made by different stakeholders.
 * Carried out Exploratory Data Analysis(EDA) to visualize the properties of the data.
 * Optimised Lineer, Lasso and Random Forest Regressors using GridsearchCV to reach the best model.
 
 ![](https://github.com/dayogh/Joseph_Portfolio/blob/main/images/corr_houseprices.png)
 
-# [Project 2: Artificial Neural Network Student Performance Prediction: Project Overview](https://colab.research.google.com/drive/1a55Xz0I6YbS2n0DjMhue7YZTSBZqkZHX?usp=sharing)
+# [Project 2: Artificial Neural Network Student Performance Prediction: Project Overview](https://github.com/dayogh/Joseph_Portfolio/blob/main/data_science/Sentiment_Analysis.ipynb)
 For this research project, I built a predictive model for student performances. This could be useful for stakeholders in education to predict based on behaviour the possible performance of students based on their unique activity attributes. The models within this project have their hyperparameters tuned for high accuracy and low loss.
 
 ![](https://github.com/dayogh/Joseph_Portfolio/blob/main/images/studenann.png)
@@ -21,7 +21,7 @@ For this research project, I built a predictive model for student performances. 
 
 ![](https://github.com/dayogh/Joseph_Portfolio/blob/main/images/sentiment.png)
 
-# [Project 4: Titanic: Project Overview](https://github.com/dayogh/Joseph_Portfolio/data_science/blob/main/Titanic.ipynb)
+# [Project 4: Titanic: Project Overview](https://github.com/dayogh/Joseph_Portfolio/blob/main/data_science/Titanic.ipynb)
 * The model was created to predict if passangers aboard the titanic would survive or not. 
 * An exhaustive data cleaning and wrangling was carried out to handle missing values and also modeled in such a way that it can handle outliers.
 * Carried out Exploratory Data Analysis(EDA) to visualize the properties of the data.
