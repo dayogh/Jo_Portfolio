@@ -28,3 +28,4 @@ For this research project, I built a predictive model for student performances. 
 * Optimised Lineer, Lasso and Random Forest Regressors using GridsearchCV to reach the best model.
 
 ![](/images/titanic.png)
+remote_theme: benbalter/retlab
