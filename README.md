@@ -17,7 +17,7 @@ For this research project, I built a predictive model for student performances. 
 
 
 
-# [Project 3: Sentiment Analysis: Project Overview](https://github.com/dayogh/Joseph_Portfolio/data_science/blob/main/Sentiment_Analysis.ipynb)
+# [Project 3: Sentiment Analysis: Project Overview](https://github.com/dayogh/Joseph_Portfolio/blob/main/data_science/Sentiment_Analysis.ipynb)
 * Created a model that performs sentiment analysis on tweets by classifying the words and sentences based on text processing into two categories i.e positive or negative.
 * Engineered a feature that classifies the positive and negative use of each word. Hence each word had a positve count and a negative word count.
 * Carried out Exploratory Data Analysis(EDA) to visualize the properties of the data.
